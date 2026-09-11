@@ -201,13 +201,22 @@ Online trading company providing access to:
 
 ---
 
-## 🔗 Official Links
+## 🔗 Official Links and Contact
 
-| Resource | Link |
-|---|---|
-| 🌐 **Website** | https://innovata.net/ |
+| Resource                   | Link                            |
+| -------------------------- | ------------------------------- |
+| 🌐 **Website**             | https://innovata.net/           |
 | 💻 **GitHub Organization** | https://github.com/innovata-net |
-| 📈 **Trading Platform** | https://innovata.net/ |
+| 📈 **Trading Platform**    | https://innovata.net/           |
+
+### 📞 Contact
+
+| Country                      | Phone         |
+| ---------------------------- | ------------- |
+| 🇨🇦 **Canada (CA)**         | +15818014814  |
+| 🇨🇭 **Switzerland (CH)**    | +41327110243  |
+| 🇬🇧 **United Kingdom (UK)** | +441615683579 |
+
 
 ---
 
