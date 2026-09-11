@@ -15,11 +15,15 @@
 </p>
 
 <p align="center">
-
-  <a href="https://innovata.net/">Website</a> •
-  <a href="https://github.com/innovata-net">GitHub</a> •
-  <a href="https://innovata.net/">Trading Platform</a>
-
+  <a href="https://innovata.net/">
+    <img src="https://img.shields.io/badge/🌐%20Website-Visit%20Website-gold?style=for-the-badge" alt="Website">
+  </a>
+  <a href="https://github.com/innovata-net">
+    <img src="https://img.shields.io/badge/💻%20GitHub-View%20GitHub-black?style=for-the-badge" alt="GitHub">
+  </a>
+  <a href="https://innovata.net/">
+    <img src="https://img.shields.io/badge/📈%20Trading%20Platform-Open%20Platform-gold?style=for-the-badge" alt="Trading Platform">
+  </a>
 </p>
 
 ---
