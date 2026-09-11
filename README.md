@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="assets/innovata-hero.png" alt="Innovata.net - Modern Trading Platform" width="100%">
+  <img src="https://github.com/innovata-net/innovata-net/blob/main/innovata-net.png?raw=true" alt="Innovata.net - Modern Trading Platform" width="100%">
 
 </p>
 
