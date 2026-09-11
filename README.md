@@ -1,4 +1,4 @@
-# Innovata.net
+<h1 align="center">Innovata.net</h1>
 
 <p align="center">
 
